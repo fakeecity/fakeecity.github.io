@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df295da9.css",
+    "main.js": "/static/js/main.5bafd243.js",
+    "static/media/clouds.mp4": "/static/media/clouds.4afb355a5665abaf96a7.mp4",
+    "static/media/seal_fbi.webp": "/static/media/seal_fbi.af62f4702f228bc8d621.webp",
+    "static/media/tahoma8px.ttf": "/static/media/tahoma8px.9fe6fcf0a561e911b1a6.ttf",
+    "static/media/seal_homeland.webp": "/static/media/seal_homeland.e467fece3ede4c0ef5ee.webp",
+    "static/media/merchantcopy.ttf": "/static/media/merchantcopy.788cc16d81b09a0be6d0.ttf",
+    "static/media/seal_doj.webp": "/static/media/seal_doj.f331992c32553d2e6b93.webp",
+    "static/media/bgimage.webp": "/static/media/bgimage.2125135aae77840433d0.webp",
+    "static/media/kyrou9bold.ttf": "/static/media/kyrou9bold.cabda799543e45b84d98.ttf",
+    "static/media/flags.webp": "/static/media/flags.37417f81b270fceb8ee7.webp",
+    "static/media/fakeworld3.webp": "/static/media/fakeworld3.05650fe0b0f0d329df4b.webp",
+    "static/media/seal_europol.webp": "/static/media/seal_europol.d52c4cc7602e60039720.webp",
+    "static/media/earthlogo.webp": "/static/media/earthlogo.fa4106a9060a05d9188f.webp",
+    "static/media/seal_eurojust.webp": "/static/media/seal_eurojust.8248fdb5645e73b1b2fb.webp",
+    "static/media/laughing_out_loud.webp": "/static/media/laughing_out_loud.15cc5d029ec2344dd9db.webp",
+    "index.html": "/index.html",
+    "main.df295da9.css.map": "/static/css/main.df295da9.css.map",
+    "main.5bafd243.js.map": "/static/js/main.5bafd243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df295da9.css",
+    "static/js/main.5bafd243.js"
+  ]
+}
